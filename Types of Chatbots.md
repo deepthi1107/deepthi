@@ -1,6 +1,8 @@
 ## Types of Chatbots
 ## [Click here to listen the audio](https://drive.google.com/file/d/1GlbnOH9nnmgpEHfXiT-R9MkpwB0VxsrL/view?usp=sharing)
 
+- At the most basic level, a chatbot is a computer program that simulates and processes human conversation (either written or spoken), allowing humans to interact with digital devices as if they were communicating with a real person. Chatbots can be as simple as rudimentary programs that answer a simple query with a single-line response, or as sophisticated as digital assistants that learn and evolve to deliver increasing levels of personalization as they gather and process information.
+
 **The different types of chatbots:**
 - Menu/button-based chatbots: 
     - Menu/button-based chatbots are the most basic type of chatbots currently implemented in the market today. In most cases, these chatbots are glorified decision tree hierarchies presented to the user in the form of buttons. Similar to the automated phone menus we all interact with on almost a daily basis, these chatbots require the user to make several selections to dig deeper towards the ultimate answer.
@@ -32,3 +34,7 @@
 - Voice bots
     - To make conversational interfaces even more vernacular, businesses are now beginning to use voice-based chatbots or voice bots. Voice bots have been on the rise for the last couple of years, with virtual assistants like Apple’s Siri, to Amazon’s Alexa, and why? Because of the convenience they bring. It’s much easier for a customer to speak rather than type. A voice-activated chatbot brings frictionless experiences directly to the end customer.
 
+**Overview:**
+- The use of chatbots evolved rapidly in numerous fields in recent years, including Marketing, Supporting Systems, Education, Health Care, Cultural Heritage, and Entertainment. 
+- Chatbots seem to hold tremendous promise for providing users with quick and convenient support responding specifically to their questions. 
+- The most frequent motivation for chatbot users is considered to be productivity, while other motives are entertainment, social factors, and contact with novelty.
