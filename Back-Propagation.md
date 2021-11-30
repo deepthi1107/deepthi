@@ -1,5 +1,5 @@
 ## Back-Propagation
-## [Click here to listen the audio]()
+## [Click here to listen the audio](https://drive.google.com/file/d/1FgV8USrvYYs3CmKX7Y8od9ahnkt6AOh8/view?usp=sharing)
 
 - Backpropagation is the essence of neural network training. It is the method of fine-tuning the weights of a neural network based on the error rate obtained in the previous epoch (i.e., iteration). Proper tuning of the weights allows you to reduce error rates and make the model reliable by increasing its generalization.
 - Backpropagation in neural network is a short form for “backward propagation of errors.” It is a standard method of training artificial neural networks. This method helps calculate the gradient of a loss function with respect to all the weights in the network.
@@ -20,6 +20,8 @@
 - Recurrent Backpropagation:
   - Recurrent Back propagation in data mining is fed forward until a fixed value is achieved. After that, the error is computed and propagated backward.
   - The main difference between both of these methods is: that the mapping is rapid in static back-propagation while it is nonstatic in recurrent backpropagation.
+
+![image](https://user-images.githubusercontent.com/79050917/144054545-53a45960-f57f-4c3b-a369-bfa1d742d49d.png)
 
 **Summary**
 - A neural network is a group of connected it I/O units where each connection has a weight associated with its computer programs.
